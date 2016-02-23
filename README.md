@@ -4,3 +4,7 @@ Garmin GPS devices have limits on the number of trackpoints per track, for examp
 
 You can find the limit of a particular device on the Internet, a good starting point is http://www.aukweb.net/services/lwg_1.htm
 
+
+# Status
+
+Currently only supporting gpx files.   Quite happy add support for .tcx tracks if there are requests.  Also happy to port to another language if Perl isn't available for you.
