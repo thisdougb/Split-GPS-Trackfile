@@ -8,3 +8,5 @@ You can find the limit of a particular device on the Internet, a good starting p
 # Status
 
 Currently only supporting gpx files.   Quite happy add support for .tcx tracks if there are requests.  Also happy to port to another language if Perl isn't available for you.
+
+Also happy to write and maintain a website version, if someone wants to host this functionality.
